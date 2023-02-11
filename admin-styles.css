@@ -152,6 +152,9 @@ body {
   border-radius: 25px;
   color: #281611;
 }
+#minus{
+  margin-left: 20px;
+}
 #t {
   font-family: "Montserrat";
   font-style: normal;
